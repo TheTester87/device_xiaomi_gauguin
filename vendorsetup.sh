@@ -9,7 +9,7 @@ echo 'Cloning Kernel tree [2/3]'
 git clone --depth=1 https://github.com/DevAdalat/kernel_xiaomi_gauguin.git --recurse-submodules kernel/xiaomi/gauguin
 
 echo 'Cloning atomx clang [3/3]'
-# atomx Clang
+# Cosmic Clang
 git clone --depth=1 https://gitlab.com/GhostMaster69-dev/cosmic-clang.git prebuilts/clang/kernel/linux-x86/clang-cosmic
 
 echo 'Completed, Now proceeding to lunch'
