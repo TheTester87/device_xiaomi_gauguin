@@ -1179,7 +1179,7 @@ system_ext/framework/vendor.qti.ims.connection-V1.0-java.jar|e01800d96b0db524836
 
 # Secure Element - from gauguin_CN
 vendor/bin/hw/vendor.qti.secure_element@1.2-service|3154e090b25eb04bb3150d7523a4c31f4126b8de
-vendor/etc/init/vendor.qti.secure_element@1.2-service.rc|cb8e44a67709a5d9c2f0544058d79eb9f6faad7b
+vendor/etc/init/vendor.qti.secure_element@1.2-service.rc|5508c6d79529012a72744c28878d70638d51e837
 vendor/lib64/android.hardware.secure_element@1.0-impl.so|8e480172d9e34e20345ca05cdfe86c0190a20bb8
 vendor/lib64/jcos_nq_client.so|b0430238ee9a9874e3702d2be5968539598a95d2
 vendor/lib64/ls_nq_client.so|a906a909d2ea16c2bb81dc263cc76a339459fda8
